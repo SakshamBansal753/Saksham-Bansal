@@ -19,8 +19,8 @@
 
 - Frontend: **HTML**, **CSS**, **JavaScript**, **React**
 - Backend: **Node.js**
-- Tools: **Git**, **GitHub**, **VS Code**,**Pycharm**
-- Currently diving deeper into: **MongoDB**, **APIs**, **Authentication**
+- Tools: , **GitHub**, **VS Code**,**Pycharm**
+
 
 ---
 
