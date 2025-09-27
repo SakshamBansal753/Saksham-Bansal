@@ -50,7 +50,7 @@
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/SakshamBansal753)  
-- [LinkedIn](https://www.linkedin.com/in/saksham-bansal-58123333a/) *(Update this!)*
+- [LinkedIn](https://www.linkedin.com/in/saksham-bansal-58123333a/)
 - 💬 Always open to collaboration & learning together!
 
 ---
