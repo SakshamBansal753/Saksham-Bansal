@@ -1,8 +1,12 @@
 # Saksham-Bansal
 
+<div style="background-color: black;">
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hey,+I'm+Saksham+Bansal!+👋&fontSize=30&fontColor=ffffff" />
 </p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
@@ -18,44 +22,42 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamBansal753&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer"/>
 </p>
 
-🧑‍💻 Passionate about building for the web and programming  at a time.
+🧑‍💻 Passionate about building for the web and programming one step at a time.
 
 ---
-
 
 ## 🚀 About Me
 
 - 🌗 Interested in **Web Development**
 - 💻 Currently learning **Node.js** and sharpening my **DSA** skills
-- 🚀 On a mission to become a **Full-Stack Web Develope or a Software Engineer**
+- 🚀 On a mission to become a **Full-Stack Web Developer** or a **Software Engineer**
 - 🧠 Clean code enthusiast & detail-oriented problem solver
 - 💡 Turning curiosity into code — one project at a time
-- First Year **CGPA >9.5**
+- First Year **CGPA > 9.5**
 
 ---
 
 ## 🛠️ Tech I'm Working With
 
-- Frontend: **HTML**, **CSS**, **JavaScript**, **React**
-- Backend: **Node.js**
-- Tools: , **GitHub**, **VS Code**,**Pycharm**
-
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js  
+- **Tools:** GitHub, VS Code, PyCharm  
 
 ---
 
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/SakshamBansal753)  
-- [LinkedIn](https://www.linkedin.com/in/saksham-bansal-58123333a/)
+- [LinkedIn](https://www.linkedin.com/in/saksham-bansal-58123333a/)  
 - 💬 Always open to collaboration & learning together!
 
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
-
- 
+</div>
