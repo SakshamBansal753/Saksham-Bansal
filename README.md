@@ -38,7 +38,7 @@
 - 🚀 On a mission to become a **Full-Stack Web Developer** or a **Software Engineer**
 - 🧠 Clean code enthusiast & detail-oriented problem solver
 - 💡 Turning curiosity into code — one project at a time
-- First Year **CGPA > 9.5**
+- 😍First Year **CGPA > 9.5**
 
 ---
 
