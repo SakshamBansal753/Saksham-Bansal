@@ -45,7 +45,7 @@
 ## 🛠️ Tech I'm Working With
 
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js  
+- **Backend:** Node.js  ,python
 - **Tools:** GitHub, VS Code, PyCharm  
 
 ---
@@ -57,7 +57,7 @@
 - 💬 Always open to collaboration & learning together!
 
 ---
-
+# I am a passionate Frontend developer
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 
 </div>
